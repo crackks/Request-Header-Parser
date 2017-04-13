@@ -1,0 +1,17 @@
+{
+  "name": "request_header_parser",
+  "version": "1.0.0",
+  "description": "'A request header parser microservice'",
+  "main": "server.js",
+  "scripts": {
+    "test": "server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crackks/Request-Header-Parser.git"
+  },
+  "keywords": [],
+  "author": "Paul-Emile Chantrel",
+  "license": "ISC"
+}
